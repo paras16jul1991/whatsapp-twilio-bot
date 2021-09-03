@@ -1,0 +1,15 @@
+{
+  "name": "whatsappchatbot",
+  "version": "1.0.0",
+  "description": "chat bot",
+  "main": "index.js",
+  "dependencies": {
+    "twilio": "^3.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
